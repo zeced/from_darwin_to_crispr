@@ -1,23 +1,3 @@
----
-title: From DARWIN to CRISPR
-subtitle: De la nécéssité d'une mutation
-date: Nov. 2019, 22th
-author: 
-    - Cédric Arnould
-keywords: [transformation, digital, mutation, data, data driven, strategy, data strategy, agility, technology]
-lang: en-us
----
-
-# Introduction
-
-Charles Darwin l'évolutionniste, le militant de l'adaption, est mort en 1882. Ses théories ont dû attendre les années 1930 pour s'imposer. CRISPR le ciseau génétique est apparu en 1997, et a été utilisé pour la première fois en Chine en 2015 afin de modifier le génome de foetus. Entre les deux plus de cent ans se sont écoulés: un infime grain de sable dans le sablier de l'univers, une éternité pour nos sociétés gavées au numérique.
-
-Après avoir rappelé comment nos sociétés sont devenus digitales et les plus audacieux d'entre nous ont osés et beaucoup gagné (DAR-e-WIN) , nous verrons que la transformation digitale, véritable enjeux commercial pour les cabinets de conseil et les ESN ou les agences marketing est terminée. 
-
-Nous verrons ensuite que le virage qui s'annonce emmené par les données (data driven) mérite toute notre attention car il amène dès maintenant son lot d'angoisses et de crispations (CRIS-e-P-eu-R). 
-
-Nous tenterons enfin de démontrer l'égalité HUMAIN = VALEUR et comment concrètement opérer la mutation nécéssaire pour embrasser les enjeux futurs et bénéficier des bienfaits attendus de la tachnologie.
-
 # La transformation digitale est terminée !
 
 ## Une brève histoire du digitale

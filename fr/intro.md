@@ -1,0 +1,9 @@
+# Introduction
+
+Charles Darwin l'évolutionniste, le militant de l'adaption, est mort en 1882. Ses théories ont dû attendre les années 1930 pour s'imposer. CRISPR le ciseau génétique est apparu en 1997, et a été utilisé pour la première fois en Chine en 2015 pour modifier le génome de foetus. Entre les deux plus de cent ans se sont écoulés: un infime grain de sable dans le sablier de l'univers, une éternité pour nos sociétés gavées au numérique.
+
+Les années 2000 ont vu l'avènement d'internet et de ce que l'on appelait encore les nouveles technologies de l'information et de la communication (NTIC). Depuis l'humanité n'a eu de cesse de s'adapter à ces technologies numériques avec lesquelles les plus audacieux d'entre nous ont osé et parfois beaucoup gagné (DAR-e-WIN). Nous verrons comment l'humain et les organisations se sont adaptés au numérique en tentant un état de lieux des usages et outils apparus pendant cette période.
+
+Avec le digital, le monde a plongé dans l'ère du soft, réduisant les barrières à l'entrée et accélérant significativement la courbe du progrès. Cette révolution annoncée et propulsée par les données (data driven) nous pousse bien au delà de l'adaption, vers la mutation. Pour la plupart le changement est vecteur de peur. L'avenir numérique tant vanté n'y coupe pas et est accompagnés de son lot d'angoisses et de crispations (CRIS-e-P-eu-R).
+
+Alors qu'on nous prédit demain un monde complètement déshumanisé dirigé par la donnée et la toute puisssante IA, ne pourrait-il pas y avoir au contraire une alternative plus humaniste ? Une vision qui nous replacerait au coeur de la création de valeur non plus en tant que produit mais en tant qu'acteur éclairé ? Pourrait-on imaginer une forme d'organisation qui permettrait aux hommes et femmes de s'épanouir et de contribuer collectivement et volontairement à la création de valeur ?s

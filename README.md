@@ -1,6 +1,6 @@
 # From Darwin to CRISPR
 
-This repository contains files of my first atempt to write a book. This will explain why digital transformation has ended and what will be the digital mutation taht is happening now.
+This repository contains files of my first attempt to write an article about Digital Mutations.
 
 # Signaling an Issue
 

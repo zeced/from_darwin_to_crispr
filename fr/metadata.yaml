@@ -1,0 +1,15 @@
+---
+title: De DARWIN à CRISPR
+subtitle: L'humanité augmentée
+date: November 22, 2019
+author: 
+    - Cédric Arnould
+keywords: [transformation, digital, mutation, data, data driven, strategy, data strategy, agility, technology]
+lang: en-us
+output:
+  pdf_document:
+    latex_engine: lualatex
+    toc: true
+    toc_depth: 2
+input: [intro.md]
+---
